@@ -1,35 +1,28 @@
 
-<!-- ================= PINK PROFILE HEADER ================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FCE4EC,50:F48FB1,100:CE93D8&text=Mayuri%20Borkar&fontSize=43&fontColor=4A2340&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Turning%20Data%20Into%20Insights&descAlignY=59&descSize=14" width="100%" alt="Mayuri Borkar pink banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=F8BBD0&amp;height=180&amp;section=header&amp;text=Mayuri%20Borkar&amp;fontSize=40&amp;fontColor=70264B" width="100%" alt="Pink banner for Mayuri Borkar"/>
 
 <br/>
 
-<img src="./Confident%20Chibi%20Girl%20in%20Black%20Blazer%281%29.png" width="220" alt="Mayuri's illustrated avatar"/>
+<img src="https://raw.githubusercontent.com/mayurib2318/mayurib2318/main/mayuri-avatar.png" width="220" alt="Mayuri's illustrated portrait"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/mayuri-borkar23">
-<img src="https://img.shields.io/badge/LINKEDIN-CB78A5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CB78A5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:mayuri23borkar@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-BD8AC7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+
 <a href="https://github.com/mayurib2318">
-<img src="https://img.shields.io/badge/GITHUB-29232F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-BD8AC7?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=C65D91&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Exploring+Machine+Learning+%26+NLP;Building+Data-Driven+Projects;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" alt="Animated introduction"/>
+<h3>AI &amp; Data Science | Machine Learning | Data Analytics</h3>
 
 </div>
 
----
 
-<h2 align="center">🎀 whoami</h2>
+<h2 align="center">🎀 Mayuri</h2>
 
 Hi! I'm **Mayuri Borkar**, a B.Tech student in **Artificial Intelligence & Data Science at Pimpri Chinchwad University**.
 
@@ -151,13 +144,6 @@ A misinformation intelligence project exploring NLP-based text analysis, risk sc
 
 ---
 
-<h2 align="center">🌸 Contribution Graph</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurib2318&bg_color=fff5f8&color=8e4162&line=e573a5&point=ad1457&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
 
 ---
 
