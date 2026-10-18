@@ -143,7 +143,15 @@ A misinformation intelligence project exploring NLP-based text analysis, risk sc
 </div>
 
 ---
+<h2 align="center">🌸 My Contribution Graph</h2>
 
+<div align="center">
+  <img
+    src="https://ghchart.xqsit94.in/mayurib2318"
+    alt="GitHub contribution graph"
+    width="100%"
+  />
+</div>
 
 ---
 
@@ -185,7 +193,9 @@ I'm always happy to connect with fellow learners, developers, data enthusiasts a
 
 <br/><br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=mayurib2318)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayurib2318&amp;label=PROFILE%20VIEWS&amp;color=DB7093&amp;style=for-the-badge" alt="Profile views counter"/>
+</p>
 <br/><br/>
 
 **Thanks for visiting my little corner of GitHub! ♡**
