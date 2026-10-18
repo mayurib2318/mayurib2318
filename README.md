@@ -185,7 +185,7 @@ I'm always happy to connect with fellow learners, developers, data enthusiasts a
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mayurib2318&label=Profile%20views&color=DB7093&style=flat" alt="Profile views"/>
+![Profile views](https://komarev.com/ghpvc/?username=mayurib2318)
 <br/><br/>
 
 **Thanks for visiting my little corner of GitHub! ♡**
