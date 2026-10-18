@@ -2,7 +2,7 @@
 <!-- =============== PINK PROFILE BANNER =============== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FCE4EC,50:F48FB1,100:CE93D8&text=Mayuri%20Borkar&fontSize=43&fontColor=4A2340&fontAlignY=38" width="100%" alt="Mayuri Borkar pink banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=180&section=header&text=Mayuri%20Borkar&fontSize=40&fontColor=70264B" width="100%" alt="Mayuri Borkar pink banner"/>type=waving&height=190&color=0:FCE4EC,50:F48FB1,100:CE93D8&text=Mayuri%20Borkar&fontSize=43&fontColor=4A2340&fontAlignY=38" width="100%" alt="Mayuri Borkar pink banner"/>
 
 <br/>
 
