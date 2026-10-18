@@ -1,6 +1,14 @@
 
 <!-- =============== PINK PROFILE BANNER =============== -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FCE4EC,50:F48FB1,100:CE93D8&text=Mayuri%20Borkar&fontSize=43&fontColor=4A2340&fontAlignY=38" width="100%" alt="Mayuri Borkar pink banner"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/mayurib2318/mayurib2318/main/Confident%20Chibi%20Girl%20in%20Black%20Blazer.png" width="200" alt="Mayuri's illustrated avatar"/>
+
+</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FCE4EC,50:F48FB1,100:CE93D8&text=Mayuri%20Borkar&fontSize=43&fontColor=4A2340&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Turning%20Data%20Into%20Insights&descAlignY=59&descSize=14" width="100%" alt="Mayuri Borkar — AI and Data Science"/>
