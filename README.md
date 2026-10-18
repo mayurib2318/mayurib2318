@@ -194,7 +194,10 @@ I'm always happy to connect with fellow learners, developers, data enthusiasts a
 <br/><br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayurib2318&amp;label=PROFILE%20VIEWS&amp;color=DB7093&amp;style=for-the-badge" alt="Profile views counter"/>
+  <img
+    src="https://hits.sh/github.com/mayurib2318.svg?style=flat-square&color=DB7093"
+    alt="Profile views"
+  />
 </p>
 <br/><br/>
 
